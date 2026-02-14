@@ -10,6 +10,9 @@ const App = () => {
 
   return (
     <div>
+      <h1>GitHub Collab Bootcamp</h1>
+      <p>This is a small paragraph.</p>
+      <button>Click me</button>
       <h1>Calculator</h1>
       <input
         type="number"
